@@ -1,0 +1,80 @@
+.home{
+    
+}
+
+li{
+    list-style-type: none;
+}
+
+.Name{
+    color: darkorange;
+    font-size: 150%;
+}
+
+.Heading{
+    font-size: 300%;
+    font-weight: 500;
+    font-stretch: expanded;
+    font-family: 'Bitter', serif;
+    text-align: justify;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 3px 3px 2px rgb(255, 125, 125) ;
+    color: rgb(4, 0, 255);
+    width: 1520px;
+    height: 40px;
+    
+}
+
+.quote{
+    color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.intro{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 990px;
+  height: 500px;
+}
+
+a:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.navigation{
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(255, 252, 52, 0.897);
+    width: 550px;
+    border-color: rgba(255, 252, 52, 0.897);
+    border-radius: 10px;
+    padding: 1px;
+}
+
+.yt{
+    background-image: url("https://hdfreewallpaper.net/wp-content/uploads/2020/08/best-football-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 200%;
+    color: honeydew;
+
+}
+
+p{
+    color: white;
+    font-size: large;
+}
+
+body{
+    padding: 50px;
+}
+
+img{
+    padding: 1px;
+    border-radius: 2px;
+}
